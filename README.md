@@ -18,6 +18,13 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ---
 
+## Running This Theme
+
+- Follow steps [here](https://jekyllrb.com/docs/installation/#requirements) for your Operating System.
+- Clone your repo
+- Run `bundle update`
+- Run `bundle exec jekyll serve`
+
 ## Troubleshooting
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
